@@ -2,7 +2,8 @@
 
 - 🔭 Atualmente estou em Transição de carreira para desenvolvedr full stack em busca de colocação profissional.
 
-[![whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]("(31)99515-6428") - (31)99515-6428
+[![whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]("(31)99515-6428")
+(31)99515-6428
 
 ## Tecnologias e Ferramentas
 <div style="display: inline_block"><br>
