@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Saulo
 
+- 🔭 Atualmente estou em Transição de carreira para desenvolvedr full stack em busca de colocação profissional.
+
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/saulo-michielin-dev/)
 [![gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](saulomichielin@gmail.com)
 [![whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]("(31)99515-6428") - (31)99515-6428
@@ -18,8 +20,12 @@
 
 https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white
 
+<a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielCoruja&show_icons=true&theme=blue-green" />
+  </a>
 
-- 🔭 Atualmente estou em Transição de carreira para desenvolvedr full stack em busca de colocação profissional.
+</td><td>
 
-- 🌱 Estou no módulo de ciências da computação na Trybe.
-- ⚡ Fun fact: ...
+  <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCoruja&layout=compact&theme=blue-green" />
+  </a>
