@@ -30,7 +30,6 @@
   </a>
 </div>
 
-
 ## GitHub Stats
 <table>
 <tr><td>
