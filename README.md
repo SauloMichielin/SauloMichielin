@@ -9,7 +9,7 @@
 
 saulomichielin@gmail.com]
 
-https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white - (31)99515-6428
+<img align="left" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />(31)99515-6428
 
 Conhecimentos em:
 
