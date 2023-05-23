@@ -2,7 +2,10 @@
 
 **SauloMichielin/SauloMichielin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white - saulomichielin@gmail.com
+[![LinkedIn Badge](https://img.shields.io/badge/-[Texto do badge]-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[Link perfil no LinkedIn])]([www.linkedin.com/in/saulo-michielin-dev/])
+<a href="[www.linkedin.com/in/saulo-michielin-dev/]"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+[![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white - saulomichielin@gmail.com]
 
 https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white - (31)99515-6428
 
