@@ -21,11 +21,11 @@
 https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white
 
 <a href="https://github.com/saulomichielin/github-readme-stats" rel="noopener noreferrer" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielCoruja&show_icons=true&theme=blue-green" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=saulomichielin&show_icons=true&theme=blue-green" />
   </a>
 
 </td><td>
 
   <a href="https://github.com/saulomichielin/github-readme-stats" rel="noopener noreferrer" target="_blank" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCoruja&layout=compact&theme=blue-green" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulomichielin&layout=compact&theme=blue-green" />
   </a>
