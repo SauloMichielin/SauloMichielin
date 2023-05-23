@@ -36,26 +36,10 @@
 ## GitHub Stats
 <table>
 <tr><td>
-
 <a href="https://github.com/saulomichielin/github-readme-stats" rel="noopener noreferrer" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=saulomichielin&show_icons=true&theme=blue-green" />
   </a>
-
 </td><td>
-
   <a href="https://github.com/saulomichielin/github-readme-stats" rel="noopener noreferrer" target="_blank" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulomichielin&layout=compact&theme=blue-green" />
   </a>
-
-  ## Minhas Redes Sociais
-<div>
-  <a style="margin-right: 15px;" href="mailto:gabridal96@gmail.com" target="_blank">
-    <img width="64px" alt="gmail" src="./images/gmail.png" />
-  </a>
-  <a style="margin-right: 15px;" href="https://www.linkedin.com/in/gabrieldalseco/" target="_blank">
-    <img width="64px" alt="linkedIn" src="./images/linkedin.png" />
-  </a>
-  <a style="margin-right: 15px;" href="https://www.facebook.com/gabriel.dalseco.1/" target="_blank">
-    <img width="64px" alt="" src="./images/facebook.png" />
-  </a>
-</div>
