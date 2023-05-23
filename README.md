@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Saulo
 
 **SauloMichielin/SauloMichielin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img src="{[BadgeURLHere](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)}" />saulomichielin@gmail.com
+<img align="right" src="https://img.shields.io/badge/(My)SQL-4479A1?logo=mysql&logoColor=white" />
 
 [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white - saulomichielin@gmail.com]
 
