@@ -2,8 +2,6 @@
 
 - 🔭 Atualmente estou em Transição de carreira para desenvolvedr full stack em busca de colocação profissional.
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/saulo-michielin-dev/)
-[![gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](saulomichielin@gmail.com)
 [![whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]("(31)99515-6428") - (31)99515-6428
 
 ## Tecnologias e Ferramentas
@@ -21,6 +19,17 @@
   <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
   <img align="center" alt="Sequelize" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-plain-wordmark.svg">
 </div>
+
+## Minhas Redes Sociais
+<div>
+  <a style="margin-right: 15px;" href="mailto:saulomichielin@gmail.com" target="_blank">
+    <img width="64px" alt="gmail" src="./images/gmail.png" />
+  </a>
+  <a style="margin-right: 15px;" href="https://www.linkedin.com/in/saulo-michielin-dev/" target="_blank">
+    <img width="64px" alt="linkedIn" src="./images/linkedin.png" />
+  </a>
+</div>
+
 
 ## GitHub Stats
 <table>
