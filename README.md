@@ -58,6 +58,7 @@
   </a>
 
 ## GitHub Stats
+<table>
 <tr><td>
 <a href="https://github.com/saulomichielin/github-readme-stats" rel="noopener noreferrer" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=saulomichielin&show_icons=true&theme=blue-green" />
