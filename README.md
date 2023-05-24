@@ -51,9 +51,6 @@
   <a style="margin-right: 15px;" href="" target="_blank">
     <img width="135px" alt="epic" src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" />
   </a>
-  <a style="margin-right: 15px;" href="" target="_blank">
-    <img width="140px" alt="battlenet" src="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF" />
-  </a>
 
 ## Meu currículo completo
 <a style="center: 40px;" href="./CV Saulo FullStack Web Developer.docx" target="_blank">
