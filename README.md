@@ -10,7 +10,7 @@
     <img width="100px" alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a> com meu <strong>filho incrível</strong>.</li>  
   <li>💻 Quando se trata de <strong>Back-end</strong>, compreendi sobre o <strong>NodeJS</strong> e seu famoso framework, o <strong>Express</strong>. Utilização de <strong>MySQL</strong> e <strong>Sequelize</strong>. Na parte de <strong>arquitetura</strong> tenho noção dos princípios <strong>MVC, SOLID e DDD</strong>, mas estou em busca de entender mais estes conceitos e absorver novos.</li>
-  <li>🖥️ Quando se trata de <strong>Front-end</strong>, utilizo o <strong>React</strong>, gosto de pensar em como fazer a <strong>lógica</strong>, <strong>reutilizar componentes</strong> e manter o <strong>código organizado</strong>, para gerenciamento de estados gosto de utilizar o <strong>Redux</strong>.</li>
+  <li>📱 Quando se trata de <strong>Front-end</strong>, utilizo o <strong>React</strong>, gosto de pensar em como fazer a <strong>lógica</strong>, <strong>reutilizar componentes</strong> e manter o <strong>código organizado</strong>, para gerenciamento de estados gosto de utilizar o <strong>Redux</strong>.</li>
 </ul>
 
 ## Tecnologias e Ferramentas
