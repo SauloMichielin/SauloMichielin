@@ -40,7 +40,7 @@
 </div>
 
 ## Meu currículo completo
-<a style="margin-right: 40px;" href="./CV Saulo FullStack Web Developer.docx" target="_blank">
+<a style="center: 40px;" href="./CV Saulo FullStack Web Developer.docx" target="_blank">
     <img width="64px" alt="currículo" src="https://img.shields.io/badge/Meu-Curr%C3%ADculo-green" />
   </a>
 
