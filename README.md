@@ -46,7 +46,7 @@
     <img width="100px" alt="steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
   </a>
   <a style="margin-right: 15px;" href="https://steamcommunity.com/id/Lucky_skyier/" target="_blank">
-    <img width="140px" alt="epic" src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" />
+    <img width="145px" alt="epic" src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" />
   </a>
   <a style="margin-right: 15px;" href="https://steamcommunity.com/id/Lucky_skyier/" target="_blank">
     <img width="140px" alt="battlenet" src="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF" />
