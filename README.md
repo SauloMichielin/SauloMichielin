@@ -31,13 +31,13 @@
 
 ## Minhas Redes Sociais
 <div>
-  <a style="margin-right;" href="mailto:saulomichielin@gmail.com" target="_blank">
+  <a style="margin-right: 15px;" href="mailto:saulomichielin@gmail.com" target="_blank">
     <img width="64px" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a style="margin-right;" href="https://www.linkedin.com/in/saulo-michielin-dev/" target="_blank">
+  <a style="margin-right: 15px;" href="https://www.linkedin.com/in/saulo-michielin-dev/" target="_blank">
     <img width="64px" alt="linkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a style="margin-right;" href="(31)99515-6428" target="_blank">
+  <a style="margin-right: 15px;" href="(31)99515-6428" target="_blank">
     <img width="64px" alt="whatsapp" src="https://img.shields.io/badge/WHATSAPP-(31)99515--6428-green" />
   </a>
   
