@@ -30,7 +30,7 @@
   <img align="center" alt="Sequelize" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-plain-wordmark.svg">
 </div>
 
-## Minhas Redes Sociais
+## Meus Contatos
   <a style="margin-right: 15px;" href="(31)99515-6428" target="_blank">
     <img width="290px" alt="whatsapp" src="https://img.shields.io/badge/WHATSAPP-(31)99515--6428-brightgreen?style=plastic" />
   </a>
