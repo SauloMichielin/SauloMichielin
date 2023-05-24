@@ -11,7 +11,7 @@
   </a> com meu filho no canal <strong>www.youtube.com/c/warfighters</strong>.</li>
   
   <a style="margin-right: 15px;" href="" target="_blank">
-    <img width="64px" alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img width="64px" alt="youtube" src="" />
   </a>
   
   <li>💻 Quando se trata de <strong>Back-end</strong>, compreendi sobre o <strong>NodeJS</strong> e seu famoso framework, o <strong>Express</strong>. Utilização de <strong>MySQL</strong> e <strong>Sequelize</strong>. Na parte de <strong>arquitetura</strong> tenho noção dos princípios <strong>MVC, SOLID e DDD</strong>, mas estou em busca de entender mais estes conceitos e absorver novos.</li>
