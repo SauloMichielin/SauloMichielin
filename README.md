@@ -48,7 +48,7 @@
   <a style="margin-right: 15px;" href="https://steamcommunity.com/id/Lucky_skyier/" target="_blank">
     <img width="98px" alt="steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
   </a>
-  <a style="margin-right: 15px;" href="" target="_blank">
+  <a style="margin-right: 15px;" href="https://store.epicgames.com/pt-BR/u/8c85b46cd09f404cbd31ca774a7a8d44" target="_blank">
     <img width="135px" alt="epic" src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" />
   </a>
 
