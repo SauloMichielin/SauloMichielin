@@ -7,7 +7,7 @@
 <ul align="justify">
   <li>🎮 Sou fã de <strong>jogos de RPG (PC e console)</strong>, principalmente MMORPG, <strong>estrátegia</strong> e <strong>jogos de construção</strong> particularmente me atraem mais.</li>
   <li>🏊‍♀️ Uma coisa que eu adoro fazer, principalmente nos momentos que estou com tempo livre é <strong>nadar</strong> e <strong>gravar vídeos</strong> para o <a style="margin-right: 15px;" href="https://www.youtube.com/c/warfighters/" target="_blank">
-    <img width="64px" alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img width="100px" alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a> com meu <strong>filho incrível</strong>.</li>  
   <li>💻 Quando se trata de <strong>Back-end</strong>, compreendi sobre o <strong>NodeJS</strong> e seu famoso framework, o <strong>Express</strong>. Utilização de <strong>MySQL</strong> e <strong>Sequelize</strong>. Na parte de <strong>arquitetura</strong> tenho noção dos princípios <strong>MVC, SOLID e DDD</strong>, mas estou em busca de entender mais estes conceitos e absorver novos.</li>
   <li>🖥️ Quando se trata de <strong>Front-end</strong>, utilizo o <strong>React</strong>, gosto de pensar em como fazer a <strong>lógica</strong>, <strong>reutilizar componentes</strong> e manter o <strong>código organizado</strong>, para gerenciamento de estados gosto de utilizar o <strong>Redux</strong>.</li>
