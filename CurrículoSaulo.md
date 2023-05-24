@@ -13,8 +13,7 @@
 
 <h2>Experiências Profissionais</h2>
 <ul>
-  <li>Técnico de computador e Smarthphones  - Analytica Informática · Autônomo</br>
-  <p>nov de 2020 – mar de 2022</p>
+  <li>Técnico de computador e Smarthphones  - Analytica Informática · Autônomo - de nov de 2020 a mar de 2022
     <ul>
       <li>Manutenção em Computadores (Desktops e Notebooks)</li>
       <li>Manutenção em Smarthphones</li>
