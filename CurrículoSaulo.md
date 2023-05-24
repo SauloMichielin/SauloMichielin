@@ -3,7 +3,7 @@
 <p>Pedro Leopoldo, Minas Gerais</p>
 <p>saulomichielin@gmail.com</p>
 <p>(31) 99515-6428</p>
-<a ></a>
+<a href="www.linkedin.com/in/saulo-michielin-dev/" target="_blank">www.linkedin.com/in/saulo-michielin-dev/</a>
 
 <h2>Objetivo Profissional</h2>
 <p>Engenheiro de Controle e automação e Técnico em Eletrotécnica em Transição de carreira para Desenvolvedor Full Stack pela Trybe, buscando colocação como desenvolvedor Full stack, Front End ou Back end. Tenho grande interesse em Tecnologia, desenvolvimento e marcas que trabalhem para contribuir com uma melhor interação digital. Tenho como objetivo, me aprimorar através de oportunidades que propiciem novos aprendizados, colaboração, trabalho em equipe e dinamismo, unindo Hard e Soft-skills, gerando impacto positivo na vida das pessoas.</p>
