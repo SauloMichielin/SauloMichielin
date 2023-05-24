@@ -39,7 +39,7 @@
   <a style="margin-right: 15px;" href="https://www.linkedin.com/in/saulo-michielin-dev/" target="_blank">
     <img width="120px" alt="linkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a style="margin-right: 15px;" href="https://steamcommunity.com/id/Lucky_skyier/" target="_blank">
+  <a style="margin-right: 15px;" href="discord.com/channels/Saulo9439" target="_blank">
     <img width="115px" alt="discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a style="margin-right: 15px;" href="https://www.youtube.com/c/warfighters/" target="_blank">
@@ -48,10 +48,10 @@
   <a style="margin-right: 15px;" href="https://steamcommunity.com/id/Lucky_skyier/" target="_blank">
     <img width="98px" alt="steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
   </a>
-  <a style="margin-right: 15px;" href="https://steamcommunity.com/id/Lucky_skyier/" target="_blank">
+  <a style="margin-right: 15px;" href="" target="_blank">
     <img width="135px" alt="epic" src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" />
   </a>
-  <a style="margin-right: 15px;" href="https://steamcommunity.com/id/Lucky_skyier/" target="_blank">
+  <a style="margin-right: 15px;" href="" target="_blank">
     <img width="140px" alt="battlenet" src="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF" />
   </a>
 
