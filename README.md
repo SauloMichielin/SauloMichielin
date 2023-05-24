@@ -10,7 +10,7 @@
     <img width="64px" alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a> com meu filho no canal <strong>www.youtube.com/c/warfighters</strong>.</li>
   
-  <a style="margin-right: 15px;" href="www.youtube.com/c/warfighters" target="_blank">
+  <a style="margin-right: 15px;" href="" target="_blank">
     <img width="64px" alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   
