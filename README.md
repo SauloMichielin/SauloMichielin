@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Saulo
 
-- 🔭 Engenheiro de Controle e automação e Técnico em Eletrotécnica em Transição de carreira para Desenvolvedor Full Stack pela Trybe, buscando colocação como desenvolvedor Full stack, Front End ou Back end. Se me perguntarem o motivo da minha mudança de área, provavelmente direi que me divirto quando estou programando.
+- 🔭 Engenheiro de Controle e automação e Técnico em Eletrotécnica em Transição de carreira para Desenvolvedor Full Stack pela Trybe, buscando colocação como desenvolvedor Full stack, Front End ou Back end. Se me perguntarem o motivo da minha mudança de área, provavelmente direi que me divirto quando estou programando. 
 
 ## Algumas coisas que são indispensáveis na minha vida 🤔
 
