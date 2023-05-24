@@ -13,12 +13,11 @@
 
 <h2>Experiências Profissionais</h2>
 <ul>
-  <li><div>
-    <li>Técnico de computador e Smarthphones  - Analytica Informática · Autônomo</li>
+  <li>Técnico de computador e Smarthphones  - Analytica Informática · Autônomo
     <ul>
       <li>Manutenção em Computadores (Desktops e Notebooks)</li>
       <li>Manutenção em Smarthphones</li>
       <li>Venda de acessórios</li>
     </ul>
-    </div></li>
+    </li>
 </ul>
