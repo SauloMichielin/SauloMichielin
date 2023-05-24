@@ -1,11 +1,16 @@
 ### Hi there 👋 I'm Saulo
 
-- 🔭 Atualmente estou em Transição de carreira para desenvolvedr full stack em busca de colocação profissional.
+- 🔭 Engenheiro de Controle e automação e Técnico em Eletrotécnica em Transição de carreira para Desenvolvedor Full Stack pela Trybe, buscando colocação como desenvolvedor Full stack, Front End ou Back end. Se me perguntarem o motivo da minha mudança de área, provavelmente direi que me divirto quando estou programando.
 
-<div align="left">
-  [![whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]("(31)99515-6428")
-  (31)99515-6428
- </div>
+## Algumas coisas que são indispensáveis na minha vida 🤔
+
+<ul align="justify">
+  <li>🎮 Sou fã de <strong>jogos de RPG (PC e console)</strong>, principalmente MMORPG, <strong>estrátegia</strong> e <strong>jogos de construção</strong> particularmente me atraem mais. 🎮</li>
+  <li>🏃🏻 Uma coisa que eu adoro fazer, principalmente nos momentos que estou com tempo livre é <strong>nadar</strong>.</li>
+  <li> Adoro <strong>jogos</strong>, se falar qual eu mais gosto eu não te direi algum específico, mas o jogos de <strong>tiro (PC e console)</strong> e <strong>estrátegia (tabuleiro)</strong> são os que mais me atraem.</li>
+  <li>👨🏻‍💻 Quando se trata de <strong>Back-end</strong>, compreendi sobre o <strong>NodeJS</strong> e seu famoso framework, o <strong>Express</strong>. Utilização de <strong>MySQL</strong> e <strong>Sequelize</strong>. Na parte de <strong>arquitetura</strong> tenho noção dos princípios <strong>MVC, SOLID e DDD</strong>, mas estou em busca de entender mais estes conceitos e absorver novos.</li>
+  <li>🖥️ Quando se trata de <strong>Front-end</strong>, utilizo o <strong>React</strong>, gosto de pensar em como fazer a <strong>lógica</strong>, <strong>reutilizar componentes</strong> e manter o <strong>código organizado</strong>, para gerenciamento de estados gosto de utilizar o <strong>Redux</strong>.</li>
+</ul>
 
 ## Tecnologias e Ferramentas
 <div style="display: inline_block"><br>
