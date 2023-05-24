@@ -35,10 +35,10 @@
     <img width="256px" alt="whatsapp" src="https://img.shields.io/badge/WHATSAPP-(31)99515--6428-green" />
   </a>
   <a style="margin-right: 15px;" href="mailto:saulomichielin@gmail.com" target="_blank">
-    <img width="105px" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img width="100px" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a style="margin-right: 15px;" href="https://www.linkedin.com/in/saulo-michielin-dev/" target="_blank">
-    <img width="128px" alt="linkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img width="120px" alt="linkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>    
 </div>
 
