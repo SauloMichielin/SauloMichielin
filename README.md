@@ -42,6 +42,15 @@
   <a style="margin-right: 15px;" href="https://www.youtube.com/c/warfighters/" target="_blank">
     <img width="115px" alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
+  <a style="margin-right: 15px;" href="https://steamcommunity.com/id/Lucky_skyier/" target="_blank">
+    <img width="115px" alt="steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+  </a>
+  <a style="margin-right: 15px;" href="https://steamcommunity.com/id/Lucky_skyier/" target="_blank">
+    <img width="115px" alt="epic" src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" />
+  </a>
+  <a style="margin-right: 15px;" href="https://steamcommunity.com/id/Lucky_skyier/" target="_blank">
+    <img width="115px" alt="battlenet" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+  </a>
 
 ## Meu currículo completo
 <a style="center: 40px;" href="./CV Saulo FullStack Web Developer.docx" target="_blank">
@@ -49,7 +58,6 @@
   </a>
 
 ## GitHub Stats
-<table>
 <tr><td>
 <a href="https://github.com/saulomichielin/github-readme-stats" rel="noopener noreferrer" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=saulomichielin&show_icons=true&theme=blue-green" />
