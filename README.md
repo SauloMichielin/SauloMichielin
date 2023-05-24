@@ -30,7 +30,6 @@
 </div>
 
 ## Minhas Redes Sociais
-<div>
   <a style="margin-right: 15px;" href="(31)99515-6428" target="_blank">
     <img width="256px" alt="whatsapp" src="https://img.shields.io/badge/WHATSAPP-(31)99515--6428-brightgreen" />
   </a>
@@ -43,11 +42,10 @@
   <a style="margin-right: 15px;" href="https://www.youtube.com/c/warfighters/" target="_blank">
     <img width="115px" alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-</div>
 
 ## Meu currículo completo
 <a style="center: 40px;" href="./CV Saulo FullStack Web Developer.docx" target="_blank">
-    <img width="128px" alt="currículo" src="https://img.shields.io/badge/ACESSE%20AQUI-MEU%20CURR%C3%8DCULO-brightgreen" />
+    <img width="256px" alt="currículo" src="https://img.shields.io/badge/ACESSE%20AQUI-MEU%20CURR%C3%8DCULO-brightgreen" />
   </a>
 
 ## GitHub Stats
