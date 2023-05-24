@@ -31,7 +31,7 @@
 
 ## Minhas Redes Sociais
   <a style="margin-right: 15px;" href="(31)99515-6428" target="_blank">
-    <img width="256px" alt="whatsapp" src="https://img.shields.io/badge/WHATSAPP-(31)99515--6428-brightgreen" />
+    <img width="256px" alt="whatsapp" src="https://img.shields.io/badge/WHATSAPP-(31)99515--6428-brightgreen?style=plastic" />
   </a>
   <a style="margin-right: 15px;" href="mailto:saulomichielin@gmail.com" target="_blank">
     <img width="95px" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
