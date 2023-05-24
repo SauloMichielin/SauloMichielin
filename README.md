@@ -44,7 +44,7 @@
 
 ## Meu currículo completo
 <a style="center: 40px;" href="./CV Saulo FullStack Web Developer.docx" target="_blank">
-    <img width="64px" alt="currículo" src="https://img.shields.io/badge/Meu-Curr%C3%ADculo-green" />
+    <img width="256px" alt="currículo" src="https://img.shields.io/badge/Meu-Curr%C3%ADculo-green" />
   </a>
 
 ## GitHub Stats
