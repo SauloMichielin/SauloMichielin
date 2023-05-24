@@ -41,7 +41,7 @@
 
 ## Meu currículo completo
 <a style="margin-right: 15px;" href="./CV Saulo FullStack Web Developer.docx" target="_blank">
-    <img width="64px" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img width="64px" alt="currículo" src="https://img.shields.io/badge/Meu-Curr%C3%ADculo-green" />
   </a>
 
 ## GitHub Stats
