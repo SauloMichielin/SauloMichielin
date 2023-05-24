@@ -45,7 +45,7 @@
 
 ## Meu currículo completo
 <a style="center: 40px;" href="./CV Saulo FullStack Web Developer.docx" target="_blank">
-    <img width="270px" alt="currículo" src="https://img.shields.io/badge/ACESSE%20AQUI-MEU%20CURR%C3%8DCULO-brightgreen" />
+    <img width="270px" style=plastic&logo=appveyor alt="currículo" src="https://img.shields.io/badge/ACESSE%20AQUI-MEU%20CURR%C3%8DCULO-brightgreen" />
   </a>
 
 ## GitHub Stats
@@ -56,5 +56,5 @@
   </a>
 </td><td>
   <a href="https://github.com/saulomichielin/github-readme-stats" rel="noopener noreferrer" target="_blank" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulomichielin&layout=compact&theme=blue-green" />
+    <img align="center" style=plastic&logo=appveyor src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulomichielin&layout=compact&theme=blue-green" />
   </a>
