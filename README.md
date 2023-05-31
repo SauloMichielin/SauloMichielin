@@ -49,14 +49,6 @@
     <img width="135px" alt="epic" src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" />
   </a>
 
-## Meu currículo completo
-<a style="center: 40px;" href="./CV Saulo FullStack Web Developer.docx" target="_blank">
-    <img width="290px" alt="currículo" src="https://img.shields.io/badge/ACESSE%20AQUI-MEU%20CURR%C3%8DCULO-brightgreen?style=plastic" />
-</a><br>
-<a style="center: 40px;" href="./CurrículoSaulo.md" target="_blank">
-  <img width="290px" alt="currículo" src="https://img.shields.io/badge/ACESSE%20AQUI%20MEU%20CURR%C3%8DCULO-VERSÃO%20GITHUB-brightgreen?style=plastic" />
-</a>
-
 ## GitHub Stats
 <table>
 <tr><td>
