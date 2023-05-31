@@ -85,5 +85,8 @@
   <li>Testes com RTL</li>
 </ul>
 
+<h2>Projetos</h2>
+<p>Colocar pelo menos 2 projetos importantes aqui</p>
+
 <h2>Idiomas</h2>
 <p>Inglês - Intermediário</p>
