@@ -14,7 +14,8 @@
 </ul>
 
 ## Tecnologias e Ferramentas
-  <img align="center" alt="Git" height="40" width="50" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+<div style="display: inline_block"><br>
+  <img align="center" alt="Git" height="40" width="80" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   <img align="center" alt="Html" height="40" width="50" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Css" height="40" width="50" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="JavaScript" height="40" width="50" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -26,6 +27,7 @@
   <img align="center" alt="Sequelize" height="40" width="50" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
   <img align="center" alt="NodeJs" height="40" width="50" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img align="center" alt="Docker" height="40" width="50" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+  </div>
 
 ## Meus Contatos
   <a style="margin-right: 15px;" href="mailto:saulomichielin@gmail.com" target="_blank">
