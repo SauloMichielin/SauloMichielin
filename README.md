@@ -1,7 +1,5 @@
 # Hi there 👋 I'm Saulo
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=SauloMichielin&label=Views&color=blue&style=plastic" alt="SauloMichielin" /> </p>
-
 - 🔭 Engenheiro de Controle e automação e Técnico em Eletrotécnica em Transição de carreira para atuar como Desenvolvedor Full Stack. Se me perguntarem o motivo da minha mudança de área, provavelmente direi que me divirto quando estou programando. 
 
 ## Algumas coisas que são indispensáveis na minha vida 🤔
@@ -61,3 +59,5 @@
   <a href="https://github.com/saulomichielin/github-readme-stats" rel="noopener noreferrer" target="_blank" target="_blank">
     <img align="center" style=plastic&logo=appveyor src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulomichielin&layout=compact&theme=blue-green" />
   </a>
+  
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=SauloMichielin&label=Views&color=blue&style=plastic" alt="SauloMichielin" /> </p>
