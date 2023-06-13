@@ -60,4 +60,4 @@
     <img align="center" style=plastic&logo=appveyor src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulomichielin&layout=compact&theme=blue-green" />
   </a>
   
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=SauloMichielin&label=Views&color=blue&style=plastic" alt="SauloMichielin" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=SauloMichielin&label=Views&color=blue&style=plastic" alt="SauloMichielin" /> </p>
