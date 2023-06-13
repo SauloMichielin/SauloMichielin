@@ -34,8 +34,7 @@
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-   </kbd>
-   <kbd>
+  </kbd>
   <kbd>
     <kbd>Front-end</kbd>
     <br>
