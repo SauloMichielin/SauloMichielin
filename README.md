@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Saulo
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=roshanlam&label=Views&color=blue&style=plastic" alt="roshanlam" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=SauloMichielin&label=Views&color=blue&style=plastic" alt="SauloMichielin" /> </p>
 
 - 🔭 Engenheiro de Controle e automação e Técnico em Eletrotécnica em Transição de carreira para atuar como Desenvolvedor Full Stack. Se me perguntarem o motivo da minha mudança de área, provavelmente direi que me divirto quando estou programando. 
 
