@@ -1,5 +1,11 @@
 # Hi there 👋 I'm Saulo
 
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 - 🔭 Engenheiro de Controle e automação e Técnico em Eletrotécnica em Transição de carreira para atuar como Desenvolvedor Full Stack. Se me perguntarem o motivo da minha mudança de área, provavelmente direi que me divirto quando estou programando. 
 
 ## Algumas coisas que são indispensáveis na minha vida 🤔
