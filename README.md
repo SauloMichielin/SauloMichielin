@@ -70,6 +70,7 @@
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img width="30px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/eclipse_94656.png" />
   </kbd>
 </div>
 
